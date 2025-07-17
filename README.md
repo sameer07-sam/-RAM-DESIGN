@@ -46,3 +46,5 @@ I used simulation tools ModelSim to run the testbench. Waveform analysis helped 
 The simulation results showed correct read and write behavior as per expectations. This task helped me understand memory design principles and Verilog coding for sequential logic.
 
 **OUTPUT**
+
+<img width="1366" height="706" alt="Image" src="https://github.com/user-attachments/assets/3f0bb8e8-df4b-49ca-a2dc-7dae5e9aca1b" />
